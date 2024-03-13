@@ -1,3 +1,2 @@
 # testing-git
-Repositorio de pruebas para Git
-prueba
+Repositorio de pruebas para Git, probando a trabajar.
